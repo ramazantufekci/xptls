@@ -15,3 +15,5 @@ Daha sonra tls12-1.reg dosyasını çalıştırın.
 En son olarak da tls12Winhttp-2.reg dosyasını çalıştırın.
 
 Sisteminizi yeniden başlattığınızda bağlantı sağlandığını göreceksiniz.
+
+Not : Dosyalar zip dosyasının içinde bulunmakta
